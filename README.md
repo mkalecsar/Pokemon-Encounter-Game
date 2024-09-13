@@ -7,4 +7,4 @@ PokéApi: This API allows access to Pokémon data (e.g., names, types, moves, st
 2. **Frontend:**
 React.js: Used to create an interactive user experience and implement various game features (e.g., location selection, battle mechanics).
 3. **Design:**
-NES-style CSS Framework: Provides the retro, 8-bit look for the game, staying true to the aesthetic of 1990s video games.
+NES-style CSS Framework: Provides the retro, 8-bit look for the game.
